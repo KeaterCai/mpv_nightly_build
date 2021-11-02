@@ -4,8 +4,8 @@ Unofficial mpv nightly builds for macOS (temporary only for Intel Chip)
 
 This repository is from ![mpv nightly build](https://github.com/jnozsc/mpv-nightly-build), this `README.md` is mainly written by ![jnozsc](https://github.com/jnozsc) (the original author). The author seems to stop publishing nightly binaries. Recently, I needed to open a movie encoded in `av1`, and found the decoder library ![dav1d](https://github.com/videolan/dav1d) of this nightly build was not up-to-date, which leads to low speed of decoding, and the performance of the new version encoder has been improved. 
 
-![build](https://github.com/KeaterCai/mpv_nightly_build/workflows/build/badge.svg)
-![downloads](https://img.shields.io/github/downloads/KeaterCai/mpv_nightly_build/total.svg?style=flat&labelColor=323940&color=brightgreen&logo=github)
+[![build](https://github.com/KeaterCai/mpv_nightly_build/actions/workflows/main.yml/badge.svg)](https://github.com/KeaterCai/mpv_nightly_build/actions/workflows/main.yml)
+![downloads](https://img.shields.io/github/downloads/KeaterCai/mpv_nightly_build/total)
 
 ## Downloads
 
